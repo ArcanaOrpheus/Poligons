@@ -51,7 +51,7 @@ public class poligon {
 	
 	void constructPolygon() {
 		
-		//Dibuixo el poligon
+		//Dibuixo el poligon, es molt cutre pero funciona
 		
 		char tablero[][] = new char[max_X+1][max_Y+1];
 		int x0;
